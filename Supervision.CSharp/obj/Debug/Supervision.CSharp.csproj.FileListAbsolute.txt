@@ -1,0 +1,12 @@
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Supervision.CSharp.exe.config
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Supervision.CSharp.exe
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Supervision.CSharp.pdb
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Akka.dll
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\System.Collections.Immutable.dll
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Akka.xml
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\AkkaSupervision\Supervision.CSharp\bin\Debug\System.Collections.Immutable.xml
+C:\Projects\AkkaSupervision\Supervision.CSharp\obj\Debug\Supervision.CSharp.csprojResolveAssemblyReference.cache
+C:\Projects\AkkaSupervision\Supervision.CSharp\obj\Debug\Supervision.CSharp.exe
+C:\Projects\AkkaSupervision\Supervision.CSharp\obj\Debug\Supervision.CSharp.pdb
